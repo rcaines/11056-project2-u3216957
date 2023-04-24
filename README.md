@@ -53,6 +53,11 @@
 - Circular border for image
 - Bootstrap or Javascript elements
 
+**Summary**
+
+From this experimental website building exercise, it was found utilising an AI to assist in providing code has its pros and cons. One of which is if you understand
+what you are coding and the attributing factors to why a certain application isn't working, you will be able to correct the mistakes provided by the computer.
+
 **Contributors**
 
   Richard Caines (Author)
