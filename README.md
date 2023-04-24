@@ -1,13 +1,16 @@
-Website Experimentation
+**Website Experimentation
 
-README
+**README
+
   A Website designed as an experimentation with using ChatGPT in assisting in providing the needed code for completing what was wanted for the website.
 
-Requirements
+**Requirements
+  
   Html
   CSS
 
-Roadmap
+**Roadmap
+  
   For the beginning of the website, I decided to test how different the chosen layout of a website ChatGPT would give me compared to the one I have learned.
 
 ![Capture](https://user-images.githubusercontent.com/125320027/233910810-8c44b37b-dfee-4eb0-8525-d06ad94ff60d.JPG)
@@ -29,7 +32,7 @@ Roadmap
 
 ![3](https://user-images.githubusercontent.com/125320027/233973852-e3e74555-d3e5-43eb-a342-ab5a7989c3c8.JPG)
 
-Alternate pathway to drop down text
+**Alternate pathway to drop down text
 
 ![5](https://user-images.githubusercontent.com/125320027/233976739-f322b20c-e4c9-4520-aae5-9624b5f99941.JPG)
 
@@ -44,11 +47,11 @@ Alternate pathway to drop down text
 
   Furthermore, I proceeded with completing the navbar, footer and logo of the website alongside with adding text to the above image grid.
 
-Problems
+**Problems
 
 - HoverText for image grid
 - Circular border for image
 - Bootstrap or Javascript elements
 
-Contributors
+**Contributors
   Richard Caines (Author)
